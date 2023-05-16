@@ -16,7 +16,7 @@ flights, and orbits affect the success of the first stage landing?
 - What is the best algorithm that can be used for binary classification 
 in this case?
 
-## ChallengeS
+## Challenges
 
 A company named Space Y asked us to:
 
