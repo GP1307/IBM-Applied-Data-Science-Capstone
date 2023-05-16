@@ -15,6 +15,18 @@ flights, and orbits affect the success of the first stage landing?
 - Does the rate of successful landings increase over the years? 
 - What is the best algorithm that can be used for binary classification 
 in this case?
+
+## ChallengeS
+
+A company named Space Y asked us to:
+
+- Determine the price of each launch
+
+- Gather public information about Space X and
+
+- Create dashboards for the team train a machine learning model to predict successful Stage 1 recovery.
+
+This repository contains completed notebooks and python files for the capstone project : IBM Data Science Professional Certification.
 ## Methodology
   ### 1. Data collection methodology
   - Using SpaceX Rest API
@@ -28,3 +40,5 @@ in this case?
   ### 5. Performed predictive analysis using classification models
   - Building, tuning and evaluation of classification models to ensure the best
   results
+  
+  
